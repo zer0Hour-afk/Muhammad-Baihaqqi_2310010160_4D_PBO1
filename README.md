@@ -163,5 +163,5 @@ public void takeDamage(int damage) {
 
 ## Pembuat
 
-Nama: Muhammad Edya Rosadi
-NPM: 2110010001
+Nama: Muhammad Baihaqqi
+NPM: 2310010160
